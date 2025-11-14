@@ -4,7 +4,7 @@
 
 Hi, I'm **Lars Fredrik Holst-Try**.
 
-I'm a full stack developer, currently working as a frontend developer at an elctrician company.
+I'm a full stack developer, currently working as a frontend developer at an elctrician company (Avitell AS).
 
 I am currently working at [Avitell]([https://dialonce.ai](https://avitell.no/)) developing a BMS.
 
