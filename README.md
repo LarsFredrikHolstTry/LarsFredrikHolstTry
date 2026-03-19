@@ -10,4 +10,4 @@ I am currently working at [Avitell]([https://dialonce.ai](https://avitell.no/)) 
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,ts,nextjs,php,laravel,mysql,bitbucket,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,ts,nextjs,php,laravel,mysql,bitbucket,github,git,apple)](https://skillicons.dev)
