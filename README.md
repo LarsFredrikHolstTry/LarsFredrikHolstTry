@@ -8,6 +8,8 @@ I'm a full stack developer, currently working as a frontend developer at an elct
 
 I am currently working at [Avitell]([https://dialonce.ai](https://avitell.no/)) developing a BMS
 
+My webpage: [Fredrik.Codes]([https://dialonce.ai](https://fredrik.codes/))
+
 ## Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,ts,nextjs,php,laravel,mysql,bitbucket,github,git,apple,vscode)](https://skillicons.dev)
